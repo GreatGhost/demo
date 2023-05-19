@@ -1,0 +1,66 @@
+{
+  "platform": [
+    {
+      "platname": "steam",
+      "pp_aid": 1,
+	  "bgImage":"images/btn1.png",
+      "sider_top": {
+		"action": "openURI",
+		"actionUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+		"packageId": 20,
+		"processUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+        "image": "images/p1.png",
+        "name": "侠盗猎车",
+        "pp_aid": 4
+      },
+      "sider_middle": {
+		"action": "openURI",
+		"actionUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+		"packageId": 20,
+		"processUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+        "image": "images/p2.png",
+        "name": "侠盗猎车",
+        "pp_aid": 5
+      },
+      "sider_bottom": {
+		"action": "openURI",
+		"actionUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+		"packageId": 20,
+		"processUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+        "image": "images/p3.png",
+        "name": "侠盗猎车",
+        "pp_aid": 6
+      },
+      "icons": [
+        {
+			"action": "openURI",
+			"actionUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+			"packageId": 20,
+			"processUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+			"image": "images/icon01.png",
+			"name": "侠盗猎车",
+			"pp_aid": 7
+        },
+		{
+			"action": "openURI",
+			"actionUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+			"packageId": 20,
+			"processUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+			"image": "images/icon02.png",
+			"name": "侠盗猎车",
+			"pp_aid": 8
+        },
+		{
+			"action": "openURI",
+			"actionUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+			"packageId": 20,
+			"processUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+			"image": "images/icon03.png",
+			"name": "侠盗猎车",
+			"pp_aid": 9
+        }
+      ]
+    }
+  ],
+  "enbale": true
+}

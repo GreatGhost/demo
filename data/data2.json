@@ -1,0 +1,18 @@
+{
+	"platform": [{
+		"platname": "steam",
+		"showpicurl": "https://ppjumper.dxinzf.com/ppstatic/sidebar/source/steam_2022090901.gif"
+	}, {
+		"platname": "origin",
+		"showpicurl": "http://ppjumper.dxinzf.com/ppstatic/sidebar/source/origin_22090601.gif"
+	}, {
+		"platname": "epic",
+		"showpicurl": "http://ppjumper.dxinzf.com/ppstatic/sidebar/source/epic_22090601.gif"
+	}],
+	"enbale": true,
+	"action": "openURI",
+	"actionUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright",
+	"urlType": "gif",
+	"packageId": 20,
+	"processUrl": "https://mall.5866.com/gamebox/index?from=pptiepianright"
+}
