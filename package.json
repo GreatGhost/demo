@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test1": "nodemon class/test1_con.js",
-    "start":"pm2 start src/app.js -i max -n server-demo"
+    "start": "pm2 start src/app.js -i max -n server-demo"
   },
   "devDependencies": {
     "@types/node": "^16.11.12",
@@ -12,6 +12,7 @@
     "axios": "^1.0.0",
     "chalk-animation": "^1.6.0",
     "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
     "electron": "^10.4.7",
     "express": "^4.18.1",
     "helmet": "^6.0.0",
@@ -26,6 +27,7 @@
     "koa-static-cache": "^5.1.4",
     "koa2": "^2.0.0-alpha.7",
     "koa2-cors": "^2.0.6",
+    "mime": "^3.0.0",
     "moment": "^2.29.1",
     "nodejs-websocket": "^1.7.2",
     "ora": "^6.1.2",
